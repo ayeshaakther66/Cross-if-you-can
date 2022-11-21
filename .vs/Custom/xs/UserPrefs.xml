@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5ABB1E85-4ABD-4678-86C0-EF664C231619}|Default">
+  <MonoDevelop.Ide.ItemProperties.Custom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaneManager.cs">
+    <Files>
+      <File FileName="LaneManager.cs" Line="25" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Custom" expanded="True">
+            <Node name="Custom" expanded="True">
+              <Node name="LaneManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
